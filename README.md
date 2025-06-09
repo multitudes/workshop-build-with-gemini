@@ -39,3 +39,10 @@ Course outline:
 
 - [Image creation and editing with Gemini 2.0](https://github.com/patrickloeber/genai-tutorials/blob/main/notebooks/gemini-image-editing.ipynb)
 - [Live API: Talk to Gemini and share your camera](https://aistudio.google.com/live) & [Live API cookbook](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Get_started_LiveAPI.ipynb)
+
+- [API docs quickstart](https://ai.google.dev/gemini-api/docs/quickstart?lang=python)
+- [Text generation docs](https://ai.google.dev/gemini-api/docs/text-generation)
+- [Long context docs](https://ai.google.dev/gemini-api/docs/long-context)
+
+Next steps:
+- [Part 2: Multimodal understanding (image, video, audio, docs, code)](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/notebooks/part-2-multimodal-understanding.ipynb)
